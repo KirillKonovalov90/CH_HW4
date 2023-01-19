@@ -1,4 +1,7 @@
-﻿int[] arrayCreationAndFilling(int number)
+        //Программа состоит из 2х функций, первая создаёт массив случайных чисел, заданного размера
+        //вторая функция выводит элементы массива
+
+int[] arrayCreationAndFilling(int number)
 {
     int[] array = new int[number];
 
